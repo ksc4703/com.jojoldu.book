@@ -1,6 +1,6 @@
-package com.jojoldu.book.springboot.web;
+package com.jojoldu.book.springboot;
 
-import com.jojoldu.book.springboot.web.web.HelloController;
+import com.jojoldu.book.springboot.web.HelloController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
